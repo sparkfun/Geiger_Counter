@@ -1,6 +1,6 @@
 Geiger Counter
 ========================================
-[![Geiger Counter](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/3/4/5/11345-01a_medium.jpg)
+[![Geiger Counter](https://cdn.sparkfun.com/assets/parts/7/0/6/3/11345-01a.jpg)
 *Geiger Counter (SEN-11345)*](https://www.sparkfun.com/products/11345)
 
 This USB powered Geiger Counter is equipped with an ATMega328 that can be programmed in-circuit. Out of the box, the board works
